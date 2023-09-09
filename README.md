@@ -32,7 +32,7 @@ This is the latitude of a branch in a particular city
 This is the longitude of a branch in a particular city
 ### State column: 
 This is the state where a particular city is present.
-
+\n 
 Cost Data worksheet contains a table containing the columns: Branch and Hourly Cost.
 
 ### Branch column: 
